@@ -9,3 +9,6 @@ DB：mysql
 20190823  
    pay
    swad
+   
+   
+Cannot read property 'resolve' of undefined
