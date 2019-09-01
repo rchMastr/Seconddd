@@ -12,3 +12,6 @@ DB：mysql
    
    
 Cannot read property 'resolve' of undefined
+
+
+Child eat fail
