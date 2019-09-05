@@ -13,7 +13,8 @@ DB：mysql
    
 Cannot read property 'resolve' of undefined
 
-
+VUE 
+axios
 Child eat fail
 
 12293 verbose stack TypeError: Cannot read property 'resolve' of undefined
