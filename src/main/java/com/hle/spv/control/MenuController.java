@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 public class MenuController {
     @RequestMapping("/hi")
     public String hiapi(){
-        System.out.println("his is hiapi");
+        System.out.println("his ifdsfdsgs hiapi");
         return "/pages/hipg";
     }
 }
